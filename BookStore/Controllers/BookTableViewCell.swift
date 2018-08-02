@@ -15,6 +15,8 @@ class BookTableViewCell: UITableViewCell {
     @IBOutlet weak var bookImageView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var subTitleLabel: UILabel!
+    @IBOutlet weak var mainStackView: UIStackView!
+    @IBOutlet weak var labelStackView: UIStackView!
     
     // MARK: - View Life Cycle
     
