@@ -20,4 +20,4 @@ After successfull installation of Pods, open BookStore.xcworkspace
 
 DONE
 
-Note: You will need to change the bundle id / provisioning team for running the app on your own device
+Note: You will need to change the bundle id / provisioning team for running the app on your own device.
